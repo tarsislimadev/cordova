@@ -1,0 +1,2 @@
+npm install -g cordova@11
+nvm install 12
